@@ -1,0 +1,580 @@
+@media (min-width:992px) and (max-width:1199px) {
+	.container {
+		max-width: 990px;
+	}
+
+	header .menu-section ul li a {
+		font-size: 14px;
+	}
+
+	header .menu-section ul li {
+		padding: 10px 15px;
+	}
+
+	.banner .heading {
+		font-size: 30px;
+	}
+
+	.banner .title {
+		font-size: 20px;
+	}
+
+	.banner .subtitle {
+		font-size: 16px;
+	}
+
+	.repair-section .box .menu a {
+		font-size: 20px;
+	}
+
+	.repair-section .box {
+		height: auto;
+	}
+
+	.heading-section {
+		font-size: 24px;
+	}
+
+	.fixed-now .text .number {
+		font-size: 24px;
+	}
+
+	.fixed-now .button-section button {
+		height: 30px;
+	}
+
+	.tablet-services .banner-second h2 {
+		font-size: 24px;
+	}
+
+	.tablet-services .banner-second p {
+		font-size: 14px;
+	}
+
+	.tablet-services .image-box .title {
+		font-size: 15px;
+	}
+
+	.tablet-services .image-box p {
+		font-size: 13px;
+		padding: 10px 0px 15px 0px;
+	}
+
+	.about .title {
+		font-size: 24px;
+	}
+
+	.about .sub-title {
+		font-size: 15px;
+	}
+
+	.about .icons .text {
+		font-size: 15px;
+	}
+
+	.about .heading {
+		font-size: 24px;
+	}
+
+	.services .our h4 {
+		font-size: 24px;
+	}
+
+	.choose-us h5 {
+		font-size: 24px;
+	}
+
+	.choose-us .image-box .sub-title {
+		font-size: 16px;
+	}
+
+	.easy-section h6 {
+		font-size: 24px;
+	}
+
+	.easy-section .button-section button {
+		height: 35px;
+		width: 130px;
+	}
+
+	.Experience-section .title {
+		font-size: 24px;
+	}
+
+	.Experience-section p {
+		font-size: 13px;
+	}
+
+	.Experience-section .circle-section .circle {
+		width: 150px;
+		height: 150px;
+	}
+
+	.Experience-section .circle-section .circle .number {
+		font-size: 24px;
+		padding: 10px 0px 0px 0px;
+	}
+
+	.Experience-section .circle-section .circle .descripation {
+		font-size: 10px;
+	}
+
+	footer .title {
+		font-size: 16px;
+	}
+
+	footer .social-icon {
+		padding: 15px 0px 0px 0px;
+	}
+
+	footer ul li {
+		font-size: 13px;
+		padding: 6px 0px;
+		font-weight: 500;
+	}
+
+	footer .about-us p {
+		line-height: 22px;
+		font-size: 13px;
+	}
+
+	.copyright {
+		font-size: 14px;
+	}
+
+}
+
+@media(min-width:768px) and (max-width:991px) {
+	.container {
+		max-width: 720px;
+	}
+
+	header .logo {
+		margin-top: 12px;
+	}
+
+	header .menu-section nav ul {
+		padding: 3px 0px 0px 0px;
+		margin-left: -22px;
+	}
+
+	header .search {
+		width: 160px;
+		margin-top: 9px;
+	}
+
+	header .logo a {
+		font-size: 18px;
+	}
+
+	header .menu-section nav ul li a {
+		font-size: 13px;
+	}
+
+	header .menu-section nav ul li {
+		padding: 10px 11px;
+		margin-left: -8px;
+	}
+
+	header .search .search-icon {
+		position: absolute;
+		top: 0px;
+		right: 0px;
+		width: 20px;
+		height: 20px;
+	}
+
+	.banner {
+		height: 500px;
+	}
+
+	.banner .heading {
+		font-size: 30px;
+	}
+
+	.banner .title {
+		font-size: 19px;
+	}
+
+	.banner .subtitle {
+		font-size: 18px;
+	}
+
+	.repair-section .box .menu a {
+		font-size: 20px;
+	}
+
+	.repair-section .box img {
+		height: 350px;
+	}
+
+	.repair-section .box {
+		height: auto;
+	}
+
+	.repair-section .box .title {
+		top: 10px;
+	}
+
+	.heading-section {
+		font-size: 24px;
+	}
+
+	.fixed-now .text .number {
+		font-size: 24px;
+	}
+
+	.fixed-now .text p {
+		font-size: 14px;
+	}
+
+	.fixed-now .button-section button {
+		height: 30px;
+		width: 130px;
+		font-size: 13px;
+	}
+
+	.tablet-services .banner-second h2 {
+		font-size: 24px;
+	}
+
+	.tablet-services .image-box {
+		height: 250px;
+		padding: 20px 0px;
+	}
+
+	.tablet-services .image-box .computer-icon a i:hover {
+		color: #925a95;
+	}
+
+	.tablet-services .image-box p {
+		padding: 0px 0px 20px 0px;
+		line-height: 18px;
+	}
+
+	.about .descripation {
+		font-size: 14px;
+		line-height: 20px;
+		padding: 10px 0px 0px;
+	}
+
+	.about .icons .text {
+		padding: 8px 0px 0px 0px;
+		font-size: 15px;
+	}
+
+	.services {
+		height: 480px;
+	}
+
+	.services .our h4 {
+		font-size: 24px;
+	}
+
+	.services .image-box {
+		height: 265px;
+		margin-top: 30px;
+	}
+
+	.services .image-box .star-icons {
+		padding: 10px 16px 0px;
+	}
+
+	.choose-us h5 {
+		font-size: 24px;
+	}
+
+	.choose-us a {
+		color: #000000;
+		text-decoration: none;
+		font-size: 50px;
+	}
+
+	.choose-us .image-box .sub-title {
+		font-size: 16px;
+	}
+
+	.choose-us .image-box {
+		padding: 55px 0px 0px 0px;
+	}
+
+	.choose-us .image-box a i:hover, .choose-us .image-box a i:focus {
+		color: #925a95;
+	}
+
+	.choose-us .image-box p {
+		font-size: 13px;
+		padding: 5px 25px 0px 25px;
+		line-height: 20px;
+	}
+
+	.easy-section {
+		height: 250px;
+	}
+
+	.easy-section .sub-title {
+		padding: 60px 0px 0px 0px;
+	}
+
+	.easy-section h6 {
+		font-size: 24px;
+	}
+
+	.easy-section .button-section button {
+		height: 30px;
+		width: 135px;
+		font-size: 13px;
+	}
+
+	.Experience-section .title {
+		font-size: 24px;
+	}
+
+	.Experience-section .circle-section .circle {
+		width: 160px;
+		height: 160px;
+		padding: 27px 0px;
+	}
+
+	.Experience-section .circle-section .circle .number {
+		font-size: 24px;
+		padding: 18px 0px 0px 0px;
+	}
+
+	.Experience-section .circle-section .circle .descripation {
+		font-size: 13px;
+	}
+
+	footer .title {
+		font-size: 16px;
+	}
+
+	footer ul li {
+		font-size: 13px;
+	}
+
+	footer .about-us p {
+		font-size: 13px;
+	}
+
+	footer .social-icon ul li a:hover, footer .social-icon ul li a:focus {
+		color: #925a95;
+	}
+
+}
+
+@media (max-width:767px) {
+	.container {
+		max-width: 100%;
+	}
+
+	.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12 {
+		width: 100%;
+		float: none;
+	}
+
+	.toggle-button {
+		display: block;
+		color: #000000;
+		margin: 10px auto;
+	}
+
+	.banner {
+		height: 400px;
+		margin: 20px auto;
+	}
+
+	header nav {
+		margin-top: 0;
+		display: none;
+	}
+
+	header .menu-section {
+		display: block;
+		position: absolute;
+		right: 15px;
+		top: 25px;
+		font-size: 25px;
+		color: #000000;
+	}
+
+	header nav.show {
+		display: block;
+		position: absolute;
+		z-index: 2;
+		width: 100vw;
+		left: -339px;
+		background: #925a95;
+	}
+
+	header .menu-section ul li {
+		display: block;
+		float: none;
+		text-align: center;
+		border-bottom: 1px solid #cdcdcd;
+	}
+
+	header .menu-section ul li:last-child {
+		border: none;
+	}
+
+	header .search {
+		width: 100%;
+		margin-top: 10px;
+		display: block;
+	}
+
+	.banner .heading {
+		font-size: 27px;
+	}
+
+	.banner .title {
+		font-size: 20px;
+	}
+
+	.repair-section .box {
+		margin: 20px auto;
+	}
+
+	.heading-section {
+		font-size: 24px;
+	}
+
+	.fixed-now .text .number {
+		font-size: 20px;
+	}
+
+	.fixed-now .text p {
+		font-size: 14px;
+	}
+
+	.fixed-now .button-section button {
+		width: 120px;
+	}
+
+	.tablet-services .banner-second h2 {
+		font-size: 24px;
+	}
+
+	.tablet-services .image-box .computer-icon a i:hover {
+		color: #925a95;
+	}
+
+	.tablet-services .image-box {
+		margin: 10px auto;
+	}
+
+	.about .heading {
+		font-size: 24px;
+	}
+
+	.about .title {
+		font-size: 24px;
+	}
+
+	.about .form {
+		margin-top: 20px;
+		height: auto;
+	}
+
+	.about .form button {
+		margin: 10px auto;
+	}
+
+	.services {
+		margin: 90px 0px 0px 0px;
+		padding: 0px 0px 30px;
+		height: auto;
+	}
+
+	.services .our h4 {
+		font-size: 24px;
+	}
+
+	.services .our p {
+		padding: 10px 8px 0px 0px;
+		font-size: 13px;
+	}
+
+	.services .image-box {
+		margin-top: 50px;
+	}
+
+	.choose-us h5 {
+		font-size: 24px;
+	}
+
+	.choose-us .text {
+		font-size: 13px;
+		padding: 10px 8px 0px;
+	}
+
+	.choose-us .image-box {
+		height: auto;
+		padding: 50px 0px 0px 0px;
+	}
+
+	.choose-us .image-box a i:hover, .choose-us .image-box a i:focus {
+		color: #925a95;
+	}
+
+	.choose-us .image-box .sub-title {
+		font-size: 16px;
+	}
+
+	.easy-section {
+		height: 200px;
+	}
+
+	.easy-section .sub-title {
+		padding: 40px 0px 0px 0px;
+	}
+
+	.easy-section h6 {
+		font-size: 24px;
+	}
+
+	.easy-section .button-section button {
+		height: 35px;
+		width: 130px;
+	}
+
+	.Experience-section .title {
+		font-size: 24px;
+		font-weight: 700;
+		margin: 0px;
+	}
+
+	.Experience-section .circle-section .circle {
+		margin: 40px auto;
+	}
+
+	footer {
+		text-align: center;
+	}
+
+	footer .about-us p {
+		font-size: 13px;
+	}
+
+	footer ul li a:hover, footer ul li a:focus {
+		color: #925a95;
+	}
+
+	footer .social-icon ul li a:hover, footer .social-icon ul li a:focus {
+		color: #925a95;
+	}
+
+	footer .title {
+		font-size: 16px;
+	}
+
+	footer ul li {
+		font-size: 13px;
+	}
+
+	.copyright {
+    padding: 12px 0px 0px 0px;
+}
+
+}
